@@ -8,6 +8,7 @@ arch:
   - aarch64
   - armv7
 host_network: true
+init: false
 map:
   - config:rw
 options:
